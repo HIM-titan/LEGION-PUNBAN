@@ -12,7 +12,7 @@ from colorama import Fore, Style, init
 init(autoreset=True)
 
 # ===== Tool login =====
-tool_username = "admin1"
+tool_username = "admin"
 tool_password = "Legion"
 
 # ===== Your personal Gmail credentials =====
